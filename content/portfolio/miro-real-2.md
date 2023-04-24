@@ -1,6 +1,6 @@
 ---
 title: "Joan Miró"
-date: 2019-12-23T15:44:46+06:00
+date: 2019-12-23T15:44:46+06:04
 type: portfolio
 image: "images/projects/miro/miro_real_2.jpeg"
 category: ["REAL"]

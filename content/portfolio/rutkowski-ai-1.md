@@ -1,6 +1,6 @@
 ---
 title: "Greg Rutkowski"
-date: 2019-12-23T20:56:42+06:00
+date: 2019-12-23T20:56:42+07:00
 type: portfolio
 image: "images/projects/Greg-Rutkowski/greg_rutkowski_ai_1.webp"
 category: ["FAKE"]

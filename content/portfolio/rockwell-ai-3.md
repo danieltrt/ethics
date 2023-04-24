@@ -1,6 +1,6 @@
 ---
 title: "Norman Rockwell"
-date: 2019-12-23T20:56:42+06:00
+date: 2019-12-23T20:56:42+06:15
 type: portfolio
 image: "images/projects/Norman-Rockwell/norman_rockwell_ai_3.jpeg"
 category: ["FAKE"]

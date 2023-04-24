@@ -1,6 +1,6 @@
 ---
 title: "Joan Miró"
-date: 2019-12-23T20:56:42+06:00
+date: 2019-12-23T20:56:42+06:03
 type: portfolio
 image: "images/projects/miro/miro_ai_2.webp"
 category: ["FAKE"]
