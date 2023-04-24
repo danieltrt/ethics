@@ -1,0 +1,84 @@
+baseURL       = "http://example.org/"
+languageCode  = "en-us"
+title         = "Roxo | Creative Design Agency"
+theme         = "roxo-hugo"
+summarylength = 25
+
+# Site Menus
+[menu]
+  # Navbar Menus
+  [[menu.nav]]
+    name    = "Home"
+    url     = ""
+    weight  = 1
+  [[menu.nav]]
+    name    = "Text"
+    url     = "about"
+    weight  = 2
+  [[menu.nav]]
+    name    = "Images"
+    url     = "portfolio"
+    weight  = 3
+  [[menu.nav]]
+    name    = "Testimonies"
+    url     = "blog"
+    weight  = 4
+
+
+# Site Params
+[params]
+  dateFormat = "26 FEB 1994"
+  # Meta data
+  description = "AI Ethics"
+  author = "StaticMania"
+  # Google Analitycs
+  googleAnalitycsID = "Your ID"
+  # We're using formspree.io for form handling, paste your formspree url below
+  fabform  = "https://fabform.io/f/USAg2Jl"
+
+  # Contact Form
+  [params.contactForm]
+    placeholder_first_name        = "First Name"
+    placeholder_last_name         = "Last Name"
+    placeholder_email             = "Email"
+    placeholder_project_type      = "Project Type"
+    placeholder_about_the_project = "About the Project"
+    send_message                  = "Send Message"
+
+    [[params.contactForm.projectType]]
+      value = "gd"
+      title  = "Graphics Design"
+    [[params.contactForm.projectType]]
+      value = "wd"
+      title  = "Web Design"
+  
+  # Navbar Action Button
+  [params.navAction]
+    status  = true
+    name    = "Get in touch"
+    url     = "contact"
+  
+
+  # Banner Section
+  [params.banner]
+    enable                = true
+    background_image      = "images/backgrounds/hero-background.jpg"
+    heading               = "One made by an artist, one by AI. Which is which?"
+    primary_button        = "AI Generated?"
+    primary_button_hover  = "Human Art"
+    # primary_button_url    = "portfolio"
+    secondary_button      = "AI Generated?"
+    secondary_button_hover  = "Machine Art"
+
+    # secondary_button_url  = "contact"
+
+  [params.portfolio]
+    enable    = true
+    title     = "Testimonials of from artists"
+
+  [params.call_to_action]
+    enable              = true
+    background_image    = "images/backgrounds/cta-background.jpg"
+    title               = "SHARE YOUR CONCERNS"
+    primary_button      = "Submit Testimonial!"
+    primary_button_url  = "contact"

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Roxo | Creative Design Agency</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Roxo | Creative Design Agency</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 24 Dec 2019 13:45:06 +0600</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nick cave</title>
+      <link>http://example.org/blog/design-inspiration-the-best-projects-from-december/</link>
+      <pubDate>Tue, 24 Dec 2019 13:45:06 +0600</pubDate>
+      
+      <guid>http://example.org/blog/design-inspiration-the-best-projects-from-december/</guid>
+      <description>Black Lines brand identity, by &amp;amp; Smith Black Lines wants it to be as easy to serve a Negroni as it is a pint of lager.</description>
+    </item>
+    
+    <item>
+      <title>Joan Miró</title>
+      <link>http://example.org/portfolio/miro1/</link>
+      <pubDate>Mon, 23 Dec 2019 20:56:42 +0600</pubDate>
+      
+      <guid>http://example.org/portfolio/miro1/</guid>
+      <description>The “Seamless Watch” watch has all the features that users expect in a digital watch, and some unusual features.
+The watch has the following features:</description>
+    </item>
+    
+    <item>
+      <title>Joan Miró</title>
+      <link>http://example.org/portfolio/miro1-fake/</link>
+      <pubDate>Mon, 23 Dec 2019 15:44:46 +0600</pubDate>
+      
+      <guid>http://example.org/portfolio/miro1-fake/</guid>
+      <description>The “Seamless Watch” watch has all the features that users expect in a digital watch, and some unusual features.
+The watch has the following features:</description>
+    </item>
+    
+  </channel>
+</rss>

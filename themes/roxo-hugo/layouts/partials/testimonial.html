@@ -1,0 +1,21 @@
+{{ with .Site.Data.testimonial }}
+  {{ if .enable }}
+  <section class="site-testimonial">
+    <div class="container">
+      <div class="row">
+        <div class="col-12">
+          <div class="section-title">
+            <h2>
+              {{ .title }}
+            </h2>
+          </div>
+        <div>
+            <h4>
+              {{ .subtitle }}
+            </h>
+        </div>
+      </div>
+    </div>
+  </section>
+  {{ end }}
+{{ end }}
