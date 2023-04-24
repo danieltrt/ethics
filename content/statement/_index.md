@@ -1,6 +1,8 @@
 ---
 title       : "Artist Statement"
 date        : 2019-12-23T20:17:01+06:00
-description : "Discover what real artists are saying about the impact of generative AI on their work. Explore their thoughts on authenticity, creativity, and the ethical implications of using this cutting-edge technology in art. Gain a unique perspective on the intersection of art and AI through their testimonials and get inspired by their innovative approach to creating."
+description : "Our art piece, titled "Awbesite," presents a contrast between AI-generated art and human-generated art. The use of technology in art has advanced significantly in recent years, with AI capable of producing images, music, and even literature. While AI-generated art may seem impressive, it raises concerns about the role of human creativity in the future.
+
+Through "Awbesite," We aim to provoke viewers to consider the ethical implications of generative AI. Will technology eventually replace human creativity? And if so, what are the potential consequences? These are essential questions to ponder as we move towards an increasingly automated world"
 ---
 
