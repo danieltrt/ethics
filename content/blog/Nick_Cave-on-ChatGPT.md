@@ -1,11 +1,23 @@
 ---
-title: "Nick cave"
-date: 2019-12-24T13:45:06+06:00
-image: images/blog/blog-post-04.jpg
-feature_image: images/blog/blog-details-image.jpg
-author: Alexender Schoitiz
+title: "Nick Cave on ChatGPT"
+date: 2023-04-24T13:45:06+06:00
+image: images/blog/nick_cave_red_hand_files.jpeg
+feature_image: images/blog/nick_cave_red_hand_files.jpeg
+# author: Alexender Schoitiz
 ---
-### Black Lines brand identity, by & Smith
+
+### A personal opinion on The Red Hand Files
+
+[*The Red Hand Files*](https://www.theredhandfiles.com/), a personal website created by popular artist Nick Cave, allows his fans to ask him questions of any and all sorts.
+
+Interestingly, in the beggining of this year, a fan from New Zealand reached out to Nick through The Red Hand Files *ASK A QUESTION*
+option after having tried to use the popular (and for some, infamous) ChatGPT to generate a song in the style of Nick Cave.
+
+If  you're curious, check out the artist's response to the original question here:
+[Nick Cave on ChatGPT generating a song in his style](https://www.theredhandfiles.com/chat-gpt-what-do-you-think/)
+
+
+<!-- ### Black Lines brand identity, by & Smith
 
 Black Lines wants it to be as easy to serve a Negroni as it is a pint of lager. The drinks company is seeking to revolutionise the bar experience by serving cocktails by draught with a changing menu of drinks (as well as same favourite stand-bys). A pink grapefruit spritz was served through the summer while a new pear and white tea fizz joins the line-up for winter.
 
@@ -32,5 +44,5 @@ Black Lines wants it to be as easy to serve a Negroni as it is a pint of lager. 
 > "The public is more familiar with bad design than good design. It is, in effect, conditioned to prefer bad design, because that is what it lives with. The new becomes threatening, the old reassuring."
 
 
-> Paul Rand, graphic designer
+> Paul Rand, graphic designer -->
 
