@@ -6,3 +6,11 @@ image: "images/projects/Salvador-Dali/salvador_dali_ai_2.webp"
 category: ["FAKE"]
 project_images: ["images/projects/Salvador-Dali/salvador_dali_ai_2.webp", "images/projects/Salvador-Dali/salvador_dali_ai_2.webp"]
 ---
+
+*Prompt:* "time, salvador dali."
+
+*Model:* Stable Diffusion
+
+*Dimensions:* 960 x 640
+
+*Seed:* 1683340243

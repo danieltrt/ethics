@@ -4,5 +4,5 @@ date: 2019-12-23T20:56:42+06:00
 type: portfolio
 image: "images/projects/Keith-Haring/keith_haring_real_3.png"
 category: ["REAL"]
-project_images: ["images/projects/Keith-Haring/keith_haring_real_3.png", "images/projects/Keith-Haring/keith_haring_real_3.png"]
+project_images: ["images/projects/Keith-Haring/keith_haring_real_3.png"]
 ---
