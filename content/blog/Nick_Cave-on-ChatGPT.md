@@ -1,7 +1,7 @@
 ---
 title: "Nick Cave on ChatGPT"
 date: 2023-04-24T13:45:06+06:00
-image: images/blog/nick_cave_red_hand_files.jpeg
+image: images/blog/nick_cave_red_hand.jpeg
 feature_image: images/blog/nick_cave_red_hand_files.jpeg
 # author: Alexender Schoitiz
 ---
