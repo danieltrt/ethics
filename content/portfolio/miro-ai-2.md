@@ -2,9 +2,9 @@
 title: "Joan Miró"
 date: 2019-12-23T20:56:42+06:00
 type: portfolio
-image: "images/projects/miro_ai_2.webp"
+image: "images/projects/miro/miro_ai_2.webp"
 category: ["FAKE"]
-project_images: ["images/projects/miro_ai_2.webp", "images/projects/miro_ai_2.webp"]
+project_images: ["images/projects/miro/miro_ai_2.webp", "images/projects/miro/miro_ai_2.webp"]
 ---
 
 The “Seamless Watch” watch has all the features that users expect in a digital watch, and some unusual features.
