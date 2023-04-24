@@ -5,12 +5,7 @@ description : "Our art piece, titled 'ArtWar', presents a contrast between AI-ge
 
 Through 'ArtWar', We aim to provoke viewers to consider the ethical implications of generative AI. Will technology eventually replace human creativity? And if so, what are the potential consequences? These are essential questions to ponder as we move towards an increasingly automated world. \
 
-
-Maria, Daniel, Nikitha
+Sincerely, Maria, Daniel, and Nikitha.
 "
-
-
-
-
 ---
 
