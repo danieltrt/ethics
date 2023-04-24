@@ -24,7 +24,7 @@ summarylength = 25
     url     = "statement"
     weight  = 4
   [[menu.nav]]
-    name    = "Testimonies"
+    name    = "Discover"
     url     = "blog"
     weight  = 5
 
