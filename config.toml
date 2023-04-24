@@ -84,5 +84,5 @@ summarylength = 25
     enable              = true
     background_image    = "images/backgrounds/cta-background.jpg"
     title               = "SHARE YOUR CONCERNS"
-    primary_button      = "Submit Testimonial!"
+    primary_button      = "Tell us what you think"
     primary_button_url  = "contact"
