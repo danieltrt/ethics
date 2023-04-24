@@ -14,6 +14,7 @@ Interestingly, in the beggining of this year, a fan from New Zealand reached out
 option after having tried to use the popular (and for some, infamous) ChatGPT to generate a song in the style of Nick Cave.
 
 If  you're curious, check out the artist's response to the original question here:
+
 [Nick Cave on ChatGPT generating a song in his style](https://www.theredhandfiles.com/chat-gpt-what-do-you-think/)
 
 
