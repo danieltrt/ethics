@@ -16,11 +16,11 @@ date: 2019-12-23T20:17:01+06:00
 Through **WARtist**, we aim to provoke viewers to consider the ethical implications of generative AI. 
 
 
-Will technology replace human artists? And if so, what are the potential consequences? 
+- Will technology replace human artists? And if so, what are the potential consequences? 
 
-Is our appreciation of human creativity and real artists affected by the capabilities of these tools?
+- Is our appreciation of human creativity and real artists affected by the capabilities of these tools?
 
-These are essential questions to ponder as we move towards an increasingly automated world.
+- These are essential questions to ponder as we move towards an increasingly automated world.
 
 
 Sincerely, 
