@@ -1,6 +1,6 @@
 baseURL       = "http://example.org/"
 languageCode  = "en-us"
-title         = "Roxo | Creative Design Agency"
+title         = "WARtist"
 theme         = "roxo-hugo"
 summarylength = 25
 
