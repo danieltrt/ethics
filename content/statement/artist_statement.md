@@ -1,11 +1,12 @@
 ---
 title: "Artist Statement"
 date: 2019-12-23T20:17:01+06:00
+type: text
 # description :
 ---
 
 
-<!-- ## ArtWar
+## ArtWar
 
 Our art piece, **ArtWar**, presents a contrast between AI-generated art and human-generated art. The use of technology in art has advanced significantly in recent years, with AI capable of producing images, music, and even literature. While AI-generated art may seem impressive, it raises concerns about the value of human creativity in the future.
 
@@ -13,4 +14,4 @@ Through **ArtWar**, We aim to provoke viewers to consider the ethical implicatio
 
 Sincerely, 
 
-Maria, Daniel, and Nikitha. -->
+Maria, Daniel, and Nikitha.
