@@ -1,45 +1,83 @@
-<nav class="navbar navbar-expand-lg site-navigation">
-  <div class="container">
-    <a class="navbar-brand" href="{{ .Site.BaseURL }}">
-    </a>
-    <button
-      class="navbar-toggler collapsed"
-      type="button"
-      data-toggle="collapse"
-      data-target="#sitenavbar"
-    >
-      <span class="icon-bar"></span>
-      <span class="icon-bar"></span>
-      <span class="icon-bar"></span>
-    </button>
+<style>
+  .icon-bar {
+      width: 22px;
+      height: 2px;
+      background-color: #333;
+      margin: 4px 0;
+      display: block;
+      transition: 0.2s;
+  }
+  .navbar-toggler.custom-toggler.change .icon-bar:nth-child(1) {
+      transform: translateY(1px) rotate(45deg);
+  }
+  .navbar-toggler.custom-toggler.change .icon-bar:nth-child(2) {
+      opacity: 0;
+  }
+  .navbar-toggler.custom-toggler.change .icon-bar:nth-child(3) {
+      transform: rotate(-45deg);
+  }
 
-    <div class="collapse navbar-collapse shows" id="sitenavbar">
-      <ul class="navbar-nav ml-auto main-nav">
-        {{$menu := (.Site.Menus.nav)}} 
-        {{$len := (len $menu)}} 
-        {{ range $index, $element := $menu }} 
-          {{ if eq (add $index 1) $len }}
-          <li class="nav-item">
-            <a
-              class="nav-link btn btn-sm btn-primary btn-sm-rounded"
-              href="{{ .URL | absURL }}"
-            >
-              <span class="btn-area">
-                <span data-text="{{ .Name }}">
-                  {{ .Name }}
-                </span>
-              </span>
-            </a>
-          </li>
-          {{ else }}
-          <li class="nav-item">
-            <a class="nav-link" href="{{ .URL | absURL }}"
-              >{{ .Name }}</a
-            >
-          </li>
-          {{ end }} 
-        {{ end }}
-      </ul>
-    </div>
-  </div>
+  .navbar-toggler.custom-toggler:not(.change) .icon-bar:nth-child(1),
+  .navbar-toggler.custom-toggler:not(.change) .icon-bar:nth-child(2),
+  .navbar-toggler.custom-toggler:not(.change) .icon-bar:nth-child(3) {
+      transform: none;
+      opacity: 1;
+  }
+</style>
+
+<nav class="navbar navbar-expand-lg site-navigation">
+<div class="container">
+<a class="navbar-brand" href="{{ .Site.BaseURL }}">
+</a>
+<button
+class="navbar-toggler custom-toggler"
+type="button"
+>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+</button>
+
+<div class="collapse navbar-collapse" id="sitenavbar">
+<ul class="navbar-nav ml-auto main-nav">
+{{$menu := (.Site.Menus.nav)}} 
+{{$len := (len $menu)}} 
+{{ range $index, $element := $menu }} 
+{{ if eq (add $index 1) $len }}
+<li class="nav-item">
+<a
+  class="nav-link btn btn-sm btn-primary btn-sm-rounded"
+  href="{{ .URL | absURL }}"
+>
+  <span class="btn-area">
+    <span data-text="{{ .Name }}">
+      {{ .Name }}
+    </span>
+  </span>
+</a>
+</li>
+{{ else }}
+<li class="nav-item">
+<a class="nav-link" href="{{ .URL | absURL }}"
+  >{{ .Name }}</a
+>
+</li>
+{{ end }} 
+{{ end }}
+</ul>
+</div>
+</div>
 </nav>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  var navbarToggler = document.querySelector('.navbar-toggler.custom-toggler');
+  var siteNavbar = document.querySelector('#sitenavbar');
+  
+  navbarToggler.addEventListener('click', function() {
+      siteNavbar.classList.toggle('collapse');
+      navbarToggler.classList.toggle('change');
+  });
+});
+
+</script>
